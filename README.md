@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max Hughes
 - 👀 I’m interested in building tools for the real world!
-- 🌱 I’m currently trying to master the basics...HTML, CSS, and JavaScript.  Way harder than it seems haha
+- 🌱 I’m currently working on building projects to further my learning...I escaped tutorial hell!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 Hit me up on Twitter @devtothemax
 - Portfolio Site coming soon!
